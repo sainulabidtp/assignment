@@ -1,0 +1,16 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="enq_module.PIl" />
+          <option value="enq_module.ImageTK" />
+          <option value="eco.eco.views" />
+          <option value="web_project.DBApp.views.valApp" />
+          <option value="web_project.DBApp.views.*" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
